@@ -1,0 +1,95 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/index.html?
+Subject: Document
+Date: Thu, 2 Nov 2023 02:04:34 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--0T8uE60pnC09MRaw96ZvlszAglx5ROktWLFASmebuI----"
+
+
+------MultipartBoundary--0T8uE60pnC09MRaw96ZvlszAglx5ROktWLFASmebuI----
+Content-Type: text/html
+Content-ID: <frame-357F3576252B8AD0C83F6340864D1D61@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/index.html?
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <label for=3D"fname">First name</label><br>
+        <input type=3D"text" id=3D"fname" name=3D"fname"><br>
+        <label for=3D"iname">Last name</label><br>
+        <input type=3D"text" id=3D"iname">
+    </form>
+    <p>Choose your favourite web language:</p>
+
+    <form>
+        <input type=3D"radio" id=3D"httml" name=3D"fav language" value=3D"h=
+tml">
+        <label for=3D"html">html</label><br>
+        <input type=3D"radio" id=3D"css" name=3D"fav language" value=3D"css=
+">
+        <label for=3D"css">css</label><br>
+        <input type=3D"radio" id=3D"javascript" name=3D"fav language" value=
+=3D"javascript">
+        <label for=3D"javascript">javascript</label><br>
+    </form>
+    <form>
+        <input type=3D"checkbox" id=3D"vehicle1" name=3D"vehislae" value=3D=
+"bike">
+        <label for=3D"vehicle1">I have a bike</label><br>
+        <input type=3D"checkbox" id=3D"vehicle2" name=3D"vehislae" value=3D=
+"car">
+        <label for=3D"vehicle2">I have a car</label><br>
+        <input type=3D"checkbox" id=3D"vehicle3" name=3D"vehislae" value=3D=
+"boat">
+        <label for=3D"vehicle3">I have a boat</label><br>
+    </form>
+    <form>
+        <label for=3D"fname">first name</label><br>
+        <input type=3D"text" id=3D"fname" name=3D"fname" value=3D"john"><br=
+>
+        <label for=3D"iname">last name</label><br>
+        <input type=3D"text" id=3D"iname" name=3D"iname" value=3D"doe"><br>=
+<br>
+        <input type=3D"submit" value=3D"Submit">
+    </form>
+    <form>
+        <label for=3D"fname">first name</label><br>
+        <input type=3D"text" id=3D"fname" value=3D"john"><br><br>
+        <input type=3D"submit" value=3D"submit">
+    </form>
+    <form>
+        <label for=3D"birthday">=D0=B2=D0=B2=D0=B5=D0=B4=D0=B8=D1=82=D0=B5 =
+=D0=B4=D0=B5=D0=BD=D1=8C =D1=80=D0=BE=D0=B6=D0=B4=D0=B5=D0=BD=D0=B8=D1=8F</=
+label><br>
+        <input id=3D"birthday" type=3D"date">
+    </form>
+    <form>
+        <label for=3D"time">=D0=B2=D0=B2=D0=B5=D0=B4=D0=B8=D1=82=D0=B5 =D0=
+=B2=D0=BE =D1=81=D0=BA=D0=BE=D0=BB=D1=8C=D0=BA=D0=BE =D1=81 =D0=B2=D0=B0=D0=
+=BC=D0=B8 =D0=B2=D1=81=D1=82=D0=B5=D1=80=D0=B8=D1=82=D1=8C=D1=81=D1=8F</lab=
+el><br>
+        <input id=3D"time" type=3D"time">
+    </form>
+    <form>
+        <label for=3D"image">=D0=B7=D0=B0=D0=B3=D1=80=D1=83=D0=B7=D0=B8=D1=
+=82=D0=B5 =D0=B2=D0=B0=D1=88=D0=B5 =D0=B0=D0=B2=D0=B0=D1=82=D0=B0=D1=80=D0=
+=BA=D1=83</label>
+        <input id=3D"image" type=3D"file">
+    </form>
+    <form>
+        <input type=3D"password"><br>
+    </form>
+<!-- Code injected by live-server -->
+
+
+</body></html>
+------MultipartBoundary--0T8uE60pnC09MRaw96ZvlszAglx5ROktWLFASmebuI------

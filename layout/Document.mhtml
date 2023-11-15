@@ -1,0 +1,44 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/form/index2.html?
+Subject: Document
+Date: Wed, 1 Nov 2023 10:14:50 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--6winuSCOFrNzGqyVRzB8HwInM4f1fbW9X6u5HyXn8v----"
+
+
+------MultipartBoundary--6winuSCOFrNzGqyVRzB8HwInM4f1fbW9X6u5HyXn8v----
+Content-Type: text/html
+Content-ID: <frame-E3D20721A5AAD076055D644911E2A838@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/form/index2.html?
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Document</title>
+<!-- Code injected by live-server -->
+
+</head>
+<body>
+    <form action=3D"http://127.0.0.1:5500/form/index2.html?">
+       <label for=3D"fname">first name</label><br>
+       <input type=3D"text" id=3D"fname"><br>
+       <label for=3D"fsurname">second name</label><br>
+       <input type=3D"text" id=3D"fsurname"><br>
+       <input type=3D"checkbox" id=3D"html" value=3D"html">
+       <label for=3D"htmml">html</label><br>
+       <input type=3D"checkbox" id=3D"css" value=3D"css">
+       <label for=3D"css">css</label><br>
+       <input type=3D"checkbox" id=3D"javascrpit" value=3D"javascrpit">
+       <label for=3D"javascrpit">javascrpit</label><br>
+       <input type=3D"date"><br>
+       <input type=3D"time"><br>
+       <input type=3D"file"><br>
+       <input type=3D"password"><br>
+       <input type=3D"submit" value=3D"submit">
+</form></body></html>
+------MultipartBoundary--6winuSCOFrNzGqyVRzB8HwInM4f1fbW9X6u5HyXn8v------

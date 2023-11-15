@@ -1,0 +1,168 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/index.html/index.html
+Subject: Document
+Date: Sat, 4 Nov 2023 06:23:54 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--iVKRVm6jhkuOpM8O7pmH7mbopedgNJ3iUwCibo2fbg----"
+
+
+------MultipartBoundary--iVKRVm6jhkuOpM8O7pmH7mbopedgNJ3iUwCibo2fbg----
+Content-Type: text/html
+Content-ID: <frame-63725601E5534A2C48BB30C8652E7380@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/index.html/index.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-a120bcf4-f31c-43b7-9b33-ce2221967e1c@mhtml.blink" />
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+   <title>Document</title>
+
+
+</head>
+
+
+
+<body>
+    <div class=3D"container">
+        <div class=3D"navbar">
+            <div class=3D"shar">
+                <h2>Company name</h2>
+        </div>
+        <div class=3D"tegs">
+            <ul>
+                <li>Features</li>
+                <li>Enterprice</li>
+                <li>Support</li>
+                <li>Pricing</li>
+            </ul>
+            <button>Sign up</button>
+            </div>
+         </div>
+    </div>
+
+    <div class=3D"pricing">
+        <div class=3D"price">
+            <p>Pricing</p>
+        </div>
+        <div class=3D"about">
+            <p>
+                Quicky bulid an effective pricing table for yout potentiona=
+l customers
+                with this <br>
+                Boostap example.It's built with <br>
+                default Bootstap components and utilites with little custom=
+ization.
+            </p>
+        </div> =20
+    </div>
+    <div class=3D"cards">
+        <div class=3D"container2">
+            <div class=3D"head">
+                <p>Free</p>
+            </div>
+            <div class=3D"body">
+                <p>
+                    <span style=3D"font-size: 30px;color: black; font-weigh=
+t: bold;">0$</span>
+                    <span style=3D"color:gray;font-size: 25px;"> mo</span><=
+br>
+                    10 users included <br>
+                    2GB of storage <br>
+                    Priorety email support <br>
+                    Help center acces
+                </p>
+           <button id=3D"first">Sign up for free</button>
+            </div>   =20
+        </div>
+        <div class=3D"container2">
+            <div class=3D"head">
+                <p>Pro</p>
+            </div>
+            <div class=3D"body">
+                <p>
+                    <span style=3D"font-size: 30px;color: black;font-weight=
+: bold;">15$</span>
+                    <span style=3D"color: gray;font-size: 25px;">/ mo</span=
+><br>
+                    20 users included <br>
+                    10GB of storage <br>
+                    Priorety email support <br>
+                    Help center acces
+                </p>
+                <button>Get stared</button>
+            </div>
+        </div>
+   =20
+        <div class=3D"container2">
+            <div class=3D"head">
+                <p>Enterprice</p>
+            </div>
+            <div class=3D"body">
+                <p>
+                    <span style=3D"font-size: 30px; color:black;font-weight=
+: bold;">29$</span>
+                    <span style=3D"color: gray;font-size: 25px;">/ mo</span=
+><br>
+                    30 users included <br>
+                    15GB of storage <br>
+                    Priority email support <br>
+                    Help center acces=20
+                </p>
+                <button>Contact</button>
+       </div>
+     </div>
+   </div>
+
+<!-- Code injected by live-server -->
+
+
+
+</body></html>
+------MultipartBoundary--iVKRVm6jhkuOpM8O7pmH7mbopedgNJ3iUwCibo2fbg----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-a120bcf4-f31c-43b7-9b33-ce2221967e1c@mhtml.blink
+
+@charset "utf-8";
+
+.container { padding: 15px; }
+
+.navbar { display: flex; justify-content: space-around; align-items: center=
+; flex-wrap: wrap; background-color: white; }
+
+.tegs { display: flex; align-items: center; gap: 30px; flex-direction: row;=
+ }
+
+.tegs ul { display: flex; flex-direction: row; list-style: none; align-item=
+s: center; gap: 30px; }
+
+.tegs button { text-align: center; padding: 10px; color: aqua; border: 1px =
+solid aqua; border-radius: 6px; width: 70px; height: 35px; }
+
+.container2 { border: 1px solid gray; border-radius: 1px; width: 350px; hei=
+ght: 320px; background-color: white; margin-top: 15px; }
+
+.head { border: 1px solid gray; text-align: center; font-size: 25px; }
+
+.body { text-align: center; margin: 20px; }
+
+.body button { width: 250px; height: 50px; border-radius: 10px; margin: 30p=
+x; background-color: cyan; font-size: 20px; color: white; border: none; }
+
+.cards { display: flex; gap: 40px; justify-content: center; }
+
+.about { color: gray; }
+
+.pricing { text-align: center; }
+
+.price p { font-size: 40px; font-family: sans-serif; }
+
+#first { width: 250px; height: 50px; border-radius: 10px; border: 1px solid=
+ aqua; margin: 30px; background-color: white; font-size: 20px; color: aqua;=
+ }
+------MultipartBoundary--iVKRVm6jhkuOpM8O7pmH7mbopedgNJ3iUwCibo2fbg------

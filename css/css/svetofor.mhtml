@@ -1,0 +1,72 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5501/index.html
+Subject: svetofor
+Date: Thu, 2 Nov 2023 09:21:43 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--we2sXSnaiohh2SXR6tqTSOD9DfeWCPyZKKWFln79Li----"
+
+
+------MultipartBoundary--we2sXSnaiohh2SXR6tqTSOD9DfeWCPyZKKWFln79Li----
+Content-Type: text/html
+Content-ID: <frame-0E82307CB7A4F75AB88AF4F4B9E77FFA@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5501/index.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-5c7c68a2-5b3a-4eca-8f1c-7d4ec791fcd4@mhtml.blink" />
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>svetofor</title>
+</head>
+
+<body>
+    <div class=3D"container">
+        <div class=3D"red"></div>
+        <div class=3D"yellow"></div>
+        <div class=3D"green"></div>
+    </div>
+    <div class=3D"container-2">
+        <div class=3D"stop">stop</div>
+        <div class=3D"wait">wait</div>
+        <div class=3D"go">go</div>
+    </div>
+<!-- Code injected by live-server -->
+
+
+</body></html>
+------MultipartBoundary--we2sXSnaiohh2SXR6tqTSOD9DfeWCPyZKKWFln79Li----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-5c7c68a2-5b3a-4eca-8f1c-7d4ec791fcd4@mhtml.blink
+
+@charset "utf-8";
+
+.container { width: 100px; height: 300px; background-color: black; }
+
+.red { width: 100%; height: 100px; border-radius: 50px; background-color: r=
+ed; }
+
+.yellow { width: 100%; height: 100px; border-radius: 50px; background-color=
+: yellow; }
+
+.green { width: 100%; height: 100px; border-radius: 50px; background-color:=
+ green; }
+
+.container-2 { display: flex; align-items: center; margin-top: 2rem; }
+
+.stop { display: flex; justify-content: center; align-items: center; width:=
+ 200px; height: 100px; text-align: center; border: 4px solid black; color: =
+aliceblue; background-color: red; }
+
+.wait { display: flex; justify-content: center; align-items: center; margin=
+-left: 1rem; width: 150px; height: 70px; text-align: center; border: 4px so=
+lid black; color: black; background-color: yellow; }
+
+.go { display: flex; justify-content: center; align-items: center; margin: =
+1rem; width: 100px; height: 40px; text-align: center; border: 4px solid bla=
+ck; color: aliceblue; background-color: green; }
+------MultipartBoundary--we2sXSnaiohh2SXR6tqTSOD9DfeWCPyZKKWFln79Li------

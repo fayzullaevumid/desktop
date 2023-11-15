@@ -1,0 +1,74 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/pult.html
+Subject: Document
+Date: Fri, 3 Nov 2023 10:10:59 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--wBuCWsfzIeWhEWyZas9zvHXqJXGZlQIWKYxCrPYirZ----"
+
+
+------MultipartBoundary--wBuCWsfzIeWhEWyZas9zvHXqJXGZlQIWKYxCrPYirZ----
+Content-Type: text/html
+Content-ID: <frame-17AAC6DBA79A99BCF6682B16D4CB3F9F@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/pult.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-b3a6b1e6-c8a6-4f49-85dc-61d7a5f8127d@mhtml.blink" />
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class=3D"container">
+        <div class=3D"round">On</div>
+        <div class=3D"firstrow">
+            <div class=3D"num">1</div>
+            <div class=3D"num">2</div>
+            <div class=3D"num">3</div>
+        </div>
+        <div class=3D"secondrow">
+            <div class=3D"num">4</div>
+            <div class=3D"num">5</div>
+            <div class=3D"num">6</div>
+        </div>
+        <di class=3D"secondrow">
+            <div class=3D"num">7</div>
+            <div class=3D"num">8</div>
+            <div class=3D"num">9</div>
+        </di>
+        <div class=3D"thirdrow">
+            <div class=3D"num">0</div>
+        </div>
+    </div>
+<!-- Code injected by live-server -->
+
+
+</body></html>
+------MultipartBoundary--wBuCWsfzIeWhEWyZas9zvHXqJXGZlQIWKYxCrPYirZ----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-b3a6b1e6-c8a6-4f49-85dc-61d7a5f8127d@mhtml.blink
+
+@charset "utf-8";
+
+body { display: flex; justify-content: center; align-items: center; }
+
+.num { width: 80px; height: 80px; background-color: white; border-radius: 1=
+0px; display: flex; justify-content: center; align-items: center; font-size=
+: xx-large; }
+
+.container { margin: 8%; width: 450px; height: 650px; background-color: bla=
+ck; display: flex; flex-direction: column; gap: 20px; padding: 5rem; }
+
+.round { width: 70px; height: 70px; background-color: red; font-size: xx-la=
+rge; border-radius: 50%; text-align: center; align-items: center; display: =
+flex; justify-content: center; }
+
+.firstrow, .secondrow { width: 100%; height: 90px; display: flex; flex-dire=
+ction: row; justify-content: space-between; }
+------MultipartBoundary--wBuCWsfzIeWhEWyZas9zvHXqJXGZlQIWKYxCrPYirZ------

@@ -1,0 +1,38 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/dars1.html
+Subject: 
+Date: Wed, 1 Nov 2023 13:15:05 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--KuMnKs8Fam4NSStqhXqg3AVuHmowwKCJ8X9dvqKWal----"
+
+
+------MultipartBoundary--KuMnKs8Fam4NSStqhXqg3AVuHmowwKCJ8X9dvqKWal----
+Content-Type: text/html
+Content-ID: <frame-581B5D7D2E4C6020A75F18AC723F1412@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/dars1.html
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"></head><body><p>this is a paragraph of information</p>
+<h1>bu mening birinchi web saytim</h1>
+<h2>bu mening birinchi web saytim</h2>
+<h3>bu mening birinchi web saytim</h3>
+<h4>bu mening birinchi web saytim</h4>
+<h5>bu mening birinchi web saytim</h5>
+<h6>bu mening birinchi web saytim</h6>
+<ul>
+    <li>something</li>
+    <li>another thing</li>
+    <li>also this one</li>
+</ul>
+<ol>
+    <li>something</li>
+    <li>another thing</li>
+    <li>also this one</li>
+</ol>
+<p>
+    line of poem<br>another line of the poem
+</p></body></html>
+------MultipartBoundary--KuMnKs8Fam4NSStqhXqg3AVuHmowwKCJ8X9dvqKWal------

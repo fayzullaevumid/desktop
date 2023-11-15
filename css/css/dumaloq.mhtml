@@ -1,0 +1,56 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/index.html
+Subject: pult
+Date: Fri, 3 Nov 2023 02:19:05 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--hdg91xrWu0guEfw1VnOb1RNusjR8fEs43d9fkFOT4z----"
+
+
+------MultipartBoundary--hdg91xrWu0guEfw1VnOb1RNusjR8fEs43d9fkFOT4z----
+Content-Type: text/html
+Content-ID: <frame-93A90B13D4421D3ADF2FE13A449A96B8@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/index.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-6c7674b8-3cd6-4f16-991c-7fd0e180e62e@mhtml.blink" />
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>pult</title>
+</head>
+ =20
+<body>
+    <div class=3D"pink">
+        <div class=3D"red">
+            <div class=3D"yellow">
+                <div class=3D"dark-blue"></div>
+            </div>
+        </div>
+     </div>
+<!-- Code injected by live-server -->
+
+
+</body></html>
+------MultipartBoundary--hdg91xrWu0guEfw1VnOb1RNusjR8fEs43d9fkFOT4z----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-6c7674b8-3cd6-4f16-991c-7fd0e180e62e@mhtml.blink
+
+@charset "utf-8";
+
+.pink { display: flex; justify-content: center; align-items: center; width:=
+ 300px; height: 300px; border-radius: 50%; background-color: pink; }
+
+.red { display: flex; justify-content: center; align-items: center; width: =
+250px; height: 250px; border-radius: 50%; background-color: red; }
+
+.yellow { display: flex; justify-content: center; align-items: center; widt=
+h: 200px; height: 200px; border-radius: 50%; background-color: yellow; }
+
+.dark-blue { width: 150px; height: 150px; border-radius: 50%; background-co=
+lor: darkblue; }
+------MultipartBoundary--hdg91xrWu0guEfw1VnOb1RNusjR8fEs43d9fkFOT4z------

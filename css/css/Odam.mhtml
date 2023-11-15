@@ -1,0 +1,75 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/odam.html
+Subject: Odam
+Date: Mon, 6 Nov 2023 14:41:08 +0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--8PTnXOPPHYYviouQ2f9H6f3YmDOpx3uGqZXeVwLUrm----"
+
+
+------MultipartBoundary--8PTnXOPPHYYviouQ2f9H6f3YmDOpx3uGqZXeVwLUrm----
+Content-Type: text/html
+Content-ID: <frame-C59529632CA6EC82DC4DE29B841D4775@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/odam.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-0f4568a1-41c1-421c-8cb3-c78a5948ac32@mhtml.blink" />
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Odam</title>
+</head>
+
+<body>
+    <div class=3D"container">
+        <div class=3D"head"></div>
+        <div class=3D"body">
+            <div class=3D"lefthand"></div>
+            <div class=3D"rightshoulder"></div>
+            <div class=3D"righthand"></div>
+            <div class=3D"leftleg"></div>
+            <div class=3D"rightleg"></div>
+        </div>
+    </div>
+<!-- Code injected by live-server -->
+
+
+</body></html>
+------MultipartBoundary--8PTnXOPPHYYviouQ2f9H6f3YmDOpx3uGqZXeVwLUrm----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-0f4568a1-41c1-421c-8cb3-c78a5948ac32@mhtml.blink
+
+@charset "utf-8";
+
+* { margin: 0px; padding: 0px; box-sizing: border-box; }
+
+body { display: flex; justify-content: center; align-items: center; }
+
+.container { width: 700px; height: 700px; display: flex; align-items: cente=
+r; flex-direction: column; margin-top: 8%; }
+
+.head { width: 111px; height: 111px; border-radius: 50%; background-color: =
+black; }
+
+.body { width: 115px; height: 187px; background-color: black; position: rel=
+ative; top: 30px; }
+
+.lefthand { width: 32px; height: 210px; background-color: black; position: =
+relative; right: 80px; transform: rotate(20deg); }
+
+.rightshoulder { width: 32px; height: 88px; background-color: black; transf=
+orm: rotate(78.579deg); position: relative; left: 160px; bottom: 250px; }
+
+.righthand { width: 32px; height: 116px; background-color: black; position:=
+ relative; bottom: 420px; left: 240px; transform: rotate(6.159deg); }
+
+.leftleg { width: 35px; height: 120px; background-color: black; transform: =
+rotate(3.006deg); position: relative; bottom: 200px; }
+
+.rightleg { width: 35px; height: 120px; background-color: black; transform:=
+ rotate(-5.998deg); position: relative; left: 80px; bottom: 320px; }
+------MultipartBoundary--8PTnXOPPHYYviouQ2f9H6f3YmDOpx3uGqZXeVwLUrm------

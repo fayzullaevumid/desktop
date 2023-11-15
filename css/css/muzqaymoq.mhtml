@@ -1,0 +1,80 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/muzqaymoq.html
+Subject: Document
+Date: Mon, 6 Nov 2023 15:22:25 +0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--TXnYEC6ScYgszVjtiKB1ok4OIe5zuIpQ3iNuQgquLU----"
+
+
+------MultipartBoundary--TXnYEC6ScYgszVjtiKB1ok4OIe5zuIpQ3iNuQgquLU----
+Content-Type: text/html
+Content-ID: <frame-11D88750D9019D6809036CC10FCEE21A@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/muzqaymoq.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-9d795568-3f3b-4a03-81a8-c567230cc82d@mhtml.blink" />
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class=3D"stick">
+        <div class=3D"icecream">
+            <div class=3D"shadow"></div>
+            <div class=3D"eye1">
+                <div class=3D"iris1"></div>
+            </div>
+            <div class=3D"eye2">
+                <div class=3D"iris2"></div>
+            </div>
+            <div class=3D"mouth"></div>   =20
+            </div>
+        </div>
+   =20
+<!-- Code injected by live-server -->
+
+
+</body></html>
+------MultipartBoundary--TXnYEC6ScYgszVjtiKB1ok4OIe5zuIpQ3iNuQgquLU----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-9d795568-3f3b-4a03-81a8-c567230cc82d@mhtml.blink
+
+@charset "utf-8";
+
+body { background-color: yellow; width: 100%; height: 100vh; display: flex;=
+ justify-content: center; align-items: center; }
+
+.stick { width: 50px; height: 270px; background-color: goldenrod; border-ra=
+dius: 50%; opacity: 0.9; }
+
+.icecream { width: 200px; height: 300px; background-color: rosybrown; posit=
+ion: relative; left: -75px; top: -100px; border-radius: 100px 100px 20px 20=
+px; z-index: 1; }
+
+.eye1 { width: 20px; height: 20px; background-color: purple; border-radius:=
+ 50%; position: relative; top: 170px; left: 20px; z-index: 1; }
+
+.eye2 { width: 20px; height: 20px; background-color: purple; border-radius:=
+ 50%; position: relative; top: 150px; left: 160px; z-index: 1; }
+
+.iris1 { width: 5px; height: 5px; background-color: white; border-radius: 5=
+0%; position: relative; top: 5px; left: 6px; z-index: 1; }
+
+.iris2 { width: 5px; height: 5px; background-color: white; border-radius: 5=
+0%; position: relative; top: 5px; left: 6px; z-index: 1; }
+
+.mouth { width: 70px; height: 25px; background-color: purple; border-radius=
+: 20px 20px 100px 100px; position: relative; top: 175px; left: 65px; z-inde=
+x: 1; }
+
+.shadow { width: 50px; height: 25px; background-color: pink; opacity: 0.7; =
+border-radius: 50%; position: relative; top: 50px; left: 130px; transform: =
+rotate(50deg); z-index: 1; }
+------MultipartBoundary--TXnYEC6ScYgszVjtiKB1ok4OIe5zuIpQ3iNuQgquLU------

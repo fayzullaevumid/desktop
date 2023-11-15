@@ -1,0 +1,76 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/layout.html
+Subject: layout
+Date: Wed, 1 Nov 2023 14:11:20 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--dtCiLF5K806hFj3uaN2TlgiMezX4QSRYWiYJqmZ2F2----"
+
+
+------MultipartBoundary--dtCiLF5K806hFj3uaN2TlgiMezX4QSRYWiYJqmZ2F2----
+Content-Type: text/html
+Content-ID: <frame-B64E55529C78E9456EE8C944D96A9B28@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/layout.html
+
+<!DOCTYPE html><!-- saved from url=3D(0032)http://127.0.0.1:5500/index.html=
+ --><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" content=3D"te=
+xt/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-8d32db5c-081f-48f2-9779-3b3a566ca1a5@mhtml.blink" />
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>layout</title>
+</head>
+
+<body>
+    <nav>
+        <h1>navbar</h1>
+    </nav>
+    <section>
+        <aside>
+            <ul>
+                <li>side menu 1</li>
+                <li>side menu 2</li>
+                <li>side menu 3</li>
+                <li>side menu 4</li>
+            </ul>
+        </aside>
+        <article>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mol=
+estiae nobis beatae dolore odit a deserunt iure unde, ut maxime perspiciati=
+s error distinctio dicta voluptate doloribus delectus modi repellat quos. D=
+icta.</p>
+        </article>
+    </section>
+    <footer>
+        <h1>footer</h1>
+    </footer>
+<!-- Code injected by live-server -->
+
+
+<!-- Code injected by live-server -->
+
+</body></html>
+------MultipartBoundary--dtCiLF5K806hFj3uaN2TlgiMezX4QSRYWiYJqmZ2F2----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-8d32db5c-081f-48f2-9779-3b3a566ca1a5@mhtml.blink
+
+@charset "utf-8";
+
+* { padding: 0px; margin: 0px; }
+
+nav { display: flex; justify-content: center; align-items: center; backgrou=
+nd-color: red; }
+
+section { display: flex; }
+
+aside { height: 85vh; width: 30%; padding: 2rem; background-color: aqua; }
+
+article { height: 85vh; width: 70%; background-color: azure; }
+
+footer { display: flex; justify-content: center; align-items: center; backg=
+round-color: red; }
+------MultipartBoundary--dtCiLF5K806hFj3uaN2TlgiMezX4QSRYWiYJqmZ2F2------

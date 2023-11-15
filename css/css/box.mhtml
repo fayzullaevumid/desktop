@@ -1,0 +1,57 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/index.html
+Subject: Document
+Date: Sun, 5 Nov 2023 14:42:04 +0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--TO2aiYiuBin7tcfMLMtNJdhI1DikhBAS2bZPGJinXJ----"
+
+
+------MultipartBoundary--TO2aiYiuBin7tcfMLMtNJdhI1DikhBAS2bZPGJinXJ----
+Content-Type: text/html
+Content-ID: <frame-2E816DC256281C9981513537CBBBB1DE@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/index.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-a0d21e45-f8c9-4866-8237-fe96cca484c6@mhtml.blink" />
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class=3D"mainDiv">
+        <div class=3D"square-1"></div>
+        <div class=3D"square-2"></div>
+        <div class=3D"square-3"></div>
+      </div>
+<!-- Code injected by live-server -->
+
+
+</body></html>
+------MultipartBoundary--TO2aiYiuBin7tcfMLMtNJdhI1DikhBAS2bZPGJinXJ----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-a0d21e45-f8c9-4866-8237-fe96cca484c6@mhtml.blink
+
+@charset "utf-8";
+
+.mainDiv { position: relative; width: 206px; height: 190px; margin-top: 100=
+px; }
+
+.square-1 { width: 100px; height: 100px; background-color: lightblue; borde=
+r: 2px solid rgb(255, 255, 255); transform: skew(180deg, 210deg); position:=
+ absolute; top: 43px; }
+
+.square-2 { width: 100px; height: 100px; background-color: lightblue; borde=
+r: 2px solid rgb(255, 255, 255); transform: skew(180deg, 150deg); position:=
+ absolute; top: 43px; left: 102px; }
+
+.square-3 { width: 114px; height: 100px; background-color: lightblue; borde=
+r: 2px solid rgb(255, 255, 255); transform: rotate(150deg) translate(-40px,=
+ -16px) skew(30deg, 0deg); position: absolute; top: -32px; left: 0px; }
+------MultipartBoundary--TO2aiYiuBin7tcfMLMtNJdhI1DikhBAS2bZPGJinXJ------

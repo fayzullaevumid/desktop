@@ -1,0 +1,63 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/index2.html
+Subject: Document
+Date: Mon, 6 Nov 2023 20:50:17 +0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--BprAv3zCrN6Z7lN4WXqCYAncDgb1WZFc0gIDmC3PBm----"
+
+
+------MultipartBoundary--BprAv3zCrN6Z7lN4WXqCYAncDgb1WZFc0gIDmC3PBm----
+Content-Type: text/html
+Content-ID: <frame-6B379A56A80AA50876E6FFBF7AE002F6@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/index2.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-b228d7bc-ae63-4df5-af43-073c195c1e03@mhtml.blink" />
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <link rel=3D"stylesheet" href=3D"http://127.0.0.1:5500/style.css">
+    <title>Document</title>
+</head>
+
+
+  =20
+<body>
+   <div class=3D"box"></div>
+<!-- Code injected by live-server -->
+
+
+</body></html>
+------MultipartBoundary--BprAv3zCrN6Z7lN4WXqCYAncDgb1WZFc0gIDmC3PBm----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-b228d7bc-ae63-4df5-af43-073c195c1e03@mhtml.blink
+
+@charset "utf-8";
+
+* { margin: 0px; padding: 0px; box-sizing: border-box; }
+
+body { display: flex; justify-content: center; align-items: center; }
+
+.box { width: 150px; height: 80px; display: flex; justify-content: center; =
+background-color: gray; position: relative; }
+
+.box:hover { background-color: red; }
+
+.box::before { display: flex; justify-content: center; align-items: center;=
+ content: "Hover me!"; }
+
+.box:hover::before { display: flex; justify-content: center; align-items: c=
+enter; content: "Go away!"; }
+------MultipartBoundary--BprAv3zCrN6Z7lN4WXqCYAncDgb1WZFc0gIDmC3PBm----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/style.css
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--BprAv3zCrN6Z7lN4WXqCYAncDgb1WZFc0gIDmC3PBm------
